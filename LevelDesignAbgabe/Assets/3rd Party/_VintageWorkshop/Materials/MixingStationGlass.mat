@@ -10,6 +10,8 @@ Material:
   m_Name: MixingStationGlass
   m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
   m_ValidKeywords:
+  - _METALLICSPECGLOSSMAP
+  - _NORMALMAP
   - _SURFACE_TYPE_TRANSPARENT
   m_InvalidKeywords:
   - _ALPHABLEND_ON
@@ -61,7 +63,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: fed4672e7c4651b409bdda04d35bed9f, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _CoatMaskMap:
@@ -117,7 +119,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: f89b5c429d730a447907e2c0212b150b, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicMap:
@@ -287,7 +289,7 @@ Material:
     - _RequireSplitLighting: 0
     - _SmoothFromMapSwitch: 1
     - _SmoothRough: 0
-    - _Smoothness: 0.5
+    - _Smoothness: 0.476
     - _SmoothnessRemapMax: 0.82258075
     - _SmoothnessRemapMin: 0
     - _SmoothnessTextureChannel: 0
