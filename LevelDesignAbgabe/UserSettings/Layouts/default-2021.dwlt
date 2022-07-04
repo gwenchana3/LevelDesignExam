@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
-    x: 0
+    x: 1920
     y: 43
     width: 1920
     height: 997
@@ -119,7 +119,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 26493
+  controlID: 260
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -144,7 +144,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 26494
+  controlID: 261
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -169,7 +169,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 26495
+  controlID: 262
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -297,8 +297,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 331
-    y: 73
+    x: -31669
+    y: -31970
     width: 1153
     height: 646
   m_ViewDataDictionary: {fileID: 0}
@@ -502,9 +502,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -5.4407473, y: 11.077241, z: 6.770443}
+    m_Target: {x: -60.316204, y: 10.241892, z: 8.911307}
     speed: 2
-    m_Value: {x: -5.4407473, y: 11.077241, z: 6.770443}
+    m_Value: {x: -60.316204, y: 10.241892, z: 8.911307}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -551,13 +551,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.05251591, y: -0.93640095, z: 0.15909413, w: -0.30883968}
+    m_Target: {x: 0.048376672, y: 0.79460526, z: -0.06339544, w: 0.60237783}
     speed: 2
-    m_Value: {x: -0.052269436, y: -0.9367238, z: 0.15914904, w: -0.30738902}
+    m_Value: {x: 0.049264308, y: 0.7942647, z: -0.06456793, w: 0.6021192}
   m_Size:
-    m_Target: 1.0736827
+    m_Target: 1.6606503
     speed: 2
-    m_Value: 6.7668457
+    m_Value: 1.0736827
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -603,7 +603,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 0
+    x: 1920
     y: 73
     width: 330
     height: 646
@@ -613,10 +613,10 @@ MonoBehaviour:
     m_SaveData: []
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 719}
+      scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 8086f6ff8886f6ff9086f6ff9886f6ffa086f6ffa686f6ffd48af6ff028bf6ff2c8cf6ffa4fefaff2efffaff34fffaff9000fbff6801fbff7201fbff9e01fbffa401fbff7402fbff5803fbffbe03fbff1204fbff5004fbff0400ffff9c0bffff4e36ffff36fbfffff4b300003ab6000080d90000
+      m_ExpandedIDs: 66e8ffff36fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -754,7 +754,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 0
+    x: 1920
     y: 740
     width: 1485
     height: 259
@@ -775,22 +775,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/3rd Party/_AlchemistryLab/ElectricConsole
+    - Assets/!Scenes
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/3rd Party/_AlchemistryLab/ElectricConsole
+  - Assets/!Scenes
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: E:\Sync\Game Design\3D Art\Unity\LevelDesignAbgabe\LevelDesignAbgabe
+  m_LastProjectPath: I:\LevelDesign I 2.5 Game Design IV I 4. Semester\LevelDesignAbgabe\LevelDesignAbgabe
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 319}
-    m_SelectedIDs: a8750000
-    m_LastClickedID: 30120
-    m_ExpandedIDs: 0000000066710000687100006a7100006c7100006e7100007071000072710000ea720000ee720000b484000000ca9a3b
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: f2670000
+    m_LastClickedID: 26610
+    m_ExpandedIDs: 00000000de670000e0670000e2670000e4670000e6670000e8670000ea670000f067000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -818,7 +818,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000066710000687100006a7100006c7100006e710000707100007271000000ca9a3b
+    m_ExpandedIDs: 00000000de670000e0670000e2670000e4670000e6670000e8670000ea67000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -924,7 +924,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1486
+    x: 3406
     y: 73
     width: 433
     height: 926
