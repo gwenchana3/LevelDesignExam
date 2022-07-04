@@ -33,7 +33,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Road
+  m_Name: Road_NoWater
   m_Shader: {fileID: -6465566751694194690, guid: 026cb7b49b4461847b9749255b5f19ea,
     type: 3}
   m_ValidKeywords:
@@ -176,10 +176,10 @@ Material:
     - ENUM_2CDEBA53: 0
     - Vector1_489907A7: 1.81
     - Vector1_514F44A2: 383.88
-    - Vector1_5B371D83: 1327.2
-    - Vector1_8C39835B: 1.95
+    - Vector1_5B371D83: 1326.68
+    - Vector1_8C39835B: 0
     - Vector1_991919E0: 0.59
-    - Vector1_A7D5496F: 3.12
+    - Vector1_A7D5496F: 3.4
     - Vector1_C0146936: 1.3
     - Vector1_CDA60972: 406.9
     - Vector1_DE7A1384: 10.43
