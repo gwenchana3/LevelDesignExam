@@ -286,7 +286,7 @@ Material:
     - _RefractionModel: 0
     - _SmoothFromMapSwitch: 1
     - _SmoothRough: 0
-    - _Smoothness: 0.5
+    - _Smoothness: 0.347
     - _SmoothnessRemapMax: 1
     - _SmoothnessRemapMin: 0
     - _SmoothnessTextureChannel: 0
