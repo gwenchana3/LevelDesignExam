@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 32243
+  controlID: 109
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -46,10 +46,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 2319
+    x: 399
     y: 73
     width: 1085
-    height: 664
+    height: 663
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
@@ -251,9 +251,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -20.55216, y: 2.4389358, z: 4.374691}
+    m_Target: {x: -19.393885, y: 1.7334795, z: 5.5403514}
     speed: 2
-    m_Value: {x: -20.55216, y: 2.4389358, z: 4.374691}
+    m_Value: {x: -19.390276, y: 1.7306145, z: 5.5379443}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -300,13 +300,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.13403319, y: 0.5331997, z: -0.060512688, w: 0.8351095}
+    m_Target: {x: 0.04339523, y: 0.28844124, z: 0.007343741, w: 0.9582597}
     speed: 2
-    m_Value: {x: 0.1337194, y: 0.5335624, z: -0.06061264, w: 0.83292043}
+    m_Value: {x: 0.04333266, y: 0.2893872, z: 0.007266309, w: 0.9562032}
   m_Size:
-    m_Target: 0.20377652
+    m_Target: 0.32127216
     speed: 2
-    m_Value: 0.19500145
+    m_Value: 0.33641064
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -355,7 +355,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 32244
+  controlID: 110
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -376,11 +376,11 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 1486
-    height: 685
+    height: 684
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 32245
+  controlID: 111
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -399,7 +399,7 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 399
-    height: 685
+    height: 684
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 6}
@@ -428,20 +428,20 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1920
+    x: 0
     y: 73
     width: 398
-    height: 664
+    height: 663
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
     m_SaveData: []
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: eef3fdff
+      scrollPos: {x: 0, y: 32}
+      m_SelectedIDs: 5ef50000
       m_LastClickedID: 0
-      m_ExpandedIDs: 7af7fdffd4f7fdff2476feff167ffeff9209ffff34fbffff926c00001e7400002e740000ae880100408901005089010098a20100dca501008ca601004aaa0100
+      m_ExpandedIDs: 2a5cffff8af6ffff34fbffff6e7400000a880000368c0000fa8c00005e8f000090920000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -483,7 +483,7 @@ MonoBehaviour:
     x: 399
     y: 0
     width: 1087
-    height: 685
+    height: 684
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 2}
@@ -601,9 +601,9 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 685
+    y: 684
     width: 1486
-    height: 262
+    height: 263
   m_MinSize: {x: 231, y: 271}
   m_MaxSize: {x: 10001, y: 10021}
   m_ActualView: {fileID: 10}
@@ -633,10 +633,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1920
-    y: 758
+    x: 0
+    y: 757
     width: 1485
-    height: 241
+    height: 242
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
@@ -654,22 +654,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/3rd Party/BK_AlchemistHouse/Models/Items/Organic
+    - Assets/3rd Party/_AlchemistryLab/PrisonWallsDoor/Materials
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/3rd Party/BK_AlchemistHouse/Models/Items/Organic
+  - Assets/3rd Party/_AlchemistryLab/PrisonWallsDoor/Materials
   m_LastFoldersGridSize: -1
   m_LastProjectPath: I:\LevelDesign I 2.5 Game Design IV I 4. Semester\LevelDesignAbgabe\LevelDesignAbgabe
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 431}
-    m_SelectedIDs: 04e40000
-    m_LastClickedID: 58372
-    m_ExpandedIDs: 0000000050cd000052cd000054cd000056cd000058cd00005acd00005ccd00005ecd000060cd000062cd000002d0000012d00000eae10000cee2000000ca9a3b
+    scrollPos: {x: 0, y: 370}
+    m_SelectedIDs: ccd90000
+    m_LastClickedID: 55756
+    m_ExpandedIDs: 00000000decf0000e0cf0000e2cf0000e4cf0000e6cf0000e8cf0000eacf0000eccf0000eecf0000f0cf00008cd1000090d1000092d1000094d100009ed10000cad9000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -697,7 +697,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000050cd000052cd000054cd000056cd000058cd00005acd00005ccd00005ecd000060cd000062cd000000ca9a3b
+    m_ExpandedIDs: 00000000decf0000e0cf0000e2cf0000e4cf0000e6cf0000e8cf0000eacf0000eccf0000eecf0000f0cf0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -722,9 +722,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: eef3fdff
-    m_LastClickedInstanceID: -134162
-    m_HadKeyboardFocusLastEvent: 0
+    m_SelectedInstanceIDs: 5ef50000
+    m_LastClickedInstanceID: 62814
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c62300000000000020e40000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -830,7 +830,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 3406
+    x: 1486
     y: 73
     width: 433
     height: 926
